@@ -1,0 +1,8 @@
+G:\oSsa_\Studia\ASP.NET\wsei-asp-lab-5-2-master\obj\Debug\net5.0\Lab-5-2.csprojAssemblyReference.cache
+G:\oSsa_\Studia\ASP.NET\wsei-asp-lab-5-2-master\obj\Debug\net5.0\Lab-5-2.GeneratedMSBuildEditorConfig.editorconfig
+G:\oSsa_\Studia\ASP.NET\wsei-asp-lab-5-2-master\obj\Debug\net5.0\Lab-5-2.AssemblyInfoInputs.cache
+G:\oSsa_\Studia\ASP.NET\wsei-asp-lab-5-2-master\obj\Debug\net5.0\Lab-5-2.AssemblyInfo.cs
+G:\oSsa_\Studia\ASP.NET\wsei-asp-lab-5-2-master\obj\Debug\net5.0\Lab-5-2.csproj.CoreCompileInputs.cache
+G:\oSsa_\Studia\ASP.NET\wsei-asp-lab-5-2-master\obj\Debug\net5.0\Lab-5-2.MvcApplicationPartsAssemblyInfo.cache
+G:\oSsa_\Studia\ASP.NET\wsei-asp-lab-5-2-master\obj\Debug\net5.0\Lab-5-2.RazorAssemblyInfo.cache
+G:\oSsa_\Studia\ASP.NET\wsei-asp-lab-5-2-master\obj\Debug\net5.0\Lab-5-2.RazorAssemblyInfo.cs
